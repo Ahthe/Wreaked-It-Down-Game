@@ -31,7 +31,7 @@ Embark on an epic journey through a world of relentless enemies and dazzling eff
 
 ## Getting Started 🚀
 
-To get in on the action, just visit the [Wreak It Down](#) GitHub Page. No installation needed, just pure fun directly in your browser!
+To get in on the action, just visit the [Wreak It Down](https://ahthe.github.io/Wreaked-It-Down-Game/) GitHub Page. No installation needed, just pure fun directly in your browser!
 
 ## Technologies Used 🛠️
 
